@@ -172,18 +172,15 @@ body {
 	overflow-wrap: break-word;
 }
 .Projects {
-	display: flex;
-	justify-content: space-between;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
 	gap: 1rem;
 	margin-bottom: 8rem;
-	margin-top: 1rem;
 }
 .Projects * {
 	background-color: #0a1e3b;
-	/* margin: 0; */
 }
 .Projects-Card {
-	flex: 1;
 	border: 2px solid #1f5ebd;
 	border-radius: 10px;
 	overflow: hidden;

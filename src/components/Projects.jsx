@@ -9,6 +9,12 @@ function Projects() {
 				link="https://e-learning-website-1.hop.sh/"
 			></ProjectsCard>
 			<ProjectsCard
+				name="My-Portfolio"
+				img="./Images/Portfolio.png"
+				stack={["HTML", "Javascript", "CSS", "React"]}
+				link="https://anur4g.netlify.app/"
+			></ProjectsCard>
+			<ProjectsCard
 				name="To-Do WebApp"
 				img="./Images/todo.png"
 				stack={["EJS", "Javascript", "CSS", "HTML"]}
