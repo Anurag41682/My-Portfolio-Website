@@ -7,7 +7,7 @@ function Achievements() {
         </li>
         <li>Pupil at Codeforces.</li>
         <li>3 Star at Codechef.</li>
-        <li>In top 10% on Leetcode rating wise </li>
+        <li>In top 10% on Leetcode rating wise. </li>
         <li>Contributor GSSoC 2023.</li>
         <li>Solved above 1000 problems on various coding platforms.</li>
       </ol>
