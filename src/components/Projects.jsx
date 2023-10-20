@@ -4,7 +4,7 @@ function Projects() {
     <div id="Projects" className="Projects">
       <ProjectsCard
         name="Job-Tracker"
-        img="/Images/jobTracker"
+        img="/Images/jobTracker.png"
         stack={["Javascript", "Express", "Material UI", "Passport.js"]}
         link="https://job-tracker-beta.vercel.app/login"
       ></ProjectsCard>
