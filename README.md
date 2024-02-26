@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Made using React !
+Developed using React !
 
 ## Deployment
 
